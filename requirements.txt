@@ -1,0 +1,9 @@
+numpy==1.23.5
+pandas>=1.5.3
+scikit-learn
+matplotlib
+ydata-profiling
+pca
+yellowbrick
+seaborn
+ipywidgets
